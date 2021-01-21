@@ -22,7 +22,7 @@ Go to the repository directory, open a terminal and type `tsc -w`. Once executed
 
 
 
-**NOTE**: If you want to add more items to run more tests, don't forget to add the path in the `package.json`.
+**NOTE**: If you want to add more items to run more tests, don't forget to add the path in the `tsconfig.json`.
 
 
 
